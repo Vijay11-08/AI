@@ -1,6 +1,6 @@
-# Good 📚
+# Artificial Intelligence 📚
 
-Welcome to the **Good** repository! 🎉 This repository contains a collection of machine learning projects implemented in Python using Jupyter Notebooks. Each project demonstrates the application of various machine learning algorithms on different datasets. Whether you're a beginner or an experienced developer, this repository will help you understand the practical implementation of popular machine learning techniques. 💡
+Welcome to the **Artificial Intelligence** repository! 🎉 This repository contains a collection of machine learning projects implemented in Python using Jupyter Notebooks. Each project demonstrates the application of various machine learning algorithms on different datasets. Whether you're a beginner or an experienced developer, this repository will help you understand the practical implementation of popular machine learning techniques. 💡
 
 ## 📂 Project Overview
 
