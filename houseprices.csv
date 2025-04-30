@@ -1,0 +1,11 @@
+id,area (sq ft),bedrooms,bathrooms,location,price (in Lakhs)
+1,1500,3,2,New York,120
+2,2500,4,3,San Francisco,300
+3,1200,2,1,Chicago,90
+4,1800,3,2,New York,150
+5,2100,4,3,San Francisco,280
+6,1600,3,2,Chicago,100
+7,2200,4,2,New York,250
+8,2000,3,2,Chicago,110
+9,1700,3,2,San Francisco,275
+10,1400,2,1,New York,130
